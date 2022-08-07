@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Quiz</title>
+    <link rel="stylesheet" href="./styles/style.css" />
+</head>
+
+<body>
+    <header class="header-text">
+        <!-- link that will send you to the save high scores -->
+        <nav class="high-score">
+            <a href="./high-scores.html">View high scores</a>
+        </nav>
+        <!-- timer for quiz -->
+        <section class="timer">Time: <span class="time-remaining">0</span></section>
+    </header>
+    <!-- where we will display the questions -->
+    <main>
+        <h1 class="title">Coding Quiz Challenge</h1>
+        <p class="directions">
+            Try to answer the following code-related questions within the time limit. <br />Keep in mind that incorrect
+            answers will penalize your score/time by ten seconds!
+        </p>
+        <button id="start-quiz" class="button" type="button">Start Quiz</button>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script
+        src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
