@@ -13,7 +13,7 @@ A quiz with different types of coding questions, it let you know the difference 
 
 ![Screenshot when you answer a correct question.](images/screenshot-2.png)
 
-![[Screenshot when you answer an incorrect question.](images/screenshot-3.png)
+![Screenshot when you answer an incorrect question.](images/screenshot-3.png)
 
 ![Screenshot when you finish the quiz.](images/screenshot-4.png)
 
