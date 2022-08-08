@@ -59,10 +59,10 @@ AS A coding boot camp student, I WANT to take a timed quiz on JavaScript fundame
 ```
 
 ## Installation
-Access to the GitHub project and clone or download the project, you can do this by clicking in the green button with the word "Code". If you decided to clone the repo you need to choose one of the SSH/HTTPS keys and copy one, after this you will need to open the terminal of your choice and type "git clone 'key'" you will need to paste one of the two keys you previously select and then click enter. If you decided to download the project you will click in the "Download.zip" option and the project will be downloaded so you will locate the file and do a right-click to select "Extract All" and you can choose where tu place it.
+Access to the GitHub project and clone or download the project, you can do this by clicking in the green button with the word "Code". If you decided to clone the repo you need to choose one of the SSH/HTTPS keys and copy one, after this you will need to open the terminal of your choice and type "git clone 'key'" you will need to paste one of the two keys you previously select and then click enter. If you decided to download the project you will click the "Download.zip" option and the project will be downloaded so you will locate the file and do a right-click to select "Extract All" and finally you can choose where to place it.
 
 ## Usage 
-To use this app you will need to download and install the terminal for mac or gitbash for windows. Since you have the project downloaded you will open it with your favorite code editor. You will see all the files and folders and you are going to click into the "index.html" after that you will type "alt + b" and you will be able to display the webpage with all the css styles. You can also click [here](https://israel2800.github.io/quiz-challenge/) to open the website.
+To use this app you will need to download and install the Terminal for Mac or Gitbash for Windows. Once you have the project downloaded you will open it with your favorite code editor. You will see all the files and folders, click the "index.html" file, then type "alt + b" and you will be able to display the webpage with all the CSS styles. You can also click [here](https://israel2800.github.io/quiz-challenge/) to open the website.
 
 ## Credits and Reference
 The following link helped me with the project: [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
