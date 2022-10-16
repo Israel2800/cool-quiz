@@ -21,7 +21,7 @@ Website link:
 https://israel2800.github.io/cool-quiz/
 
 GitHub project:
-https://github.com/Israel2800/quiz-challenge
+https://github.com/Israel2800/cool-quiz
 
 
 ## Screenshots-Demo
